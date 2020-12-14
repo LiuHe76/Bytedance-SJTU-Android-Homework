@@ -43,6 +43,7 @@
 4. 基于binder通信的后台service实现下载
 5. 视频拉取时加载动画
 6. receiver监听网络状况（TODO: onReceive()中功能完善，目前仅是Toast提示）
+7. 分享栏目自定义View中的自定义属性，以指定对应icon集合
 
 ### 难点：
 
